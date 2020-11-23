@@ -12,7 +12,7 @@ nav_order: 1
 
 ## Welcome 
 
-I am Nathan Huang. I am a fifth year PhD Marketing student at University of Wisconsin-Madison.
+I am Nathan Huang. I am a fifth year Markting PhD student at University of Wisconsin-Madison.
 
 
 
